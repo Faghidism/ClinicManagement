@@ -11,7 +11,7 @@ When the program starts, the user can enter their username and password to acces
 
 ## Main classes of the project
 
-Clinic class
+#### Clinic class:
 
 • Clinic name
 
@@ -21,7 +21,7 @@ Clinic class
 
 • List of departments
 
-Department class
+#### Department class
 
 • Department name
 
@@ -33,9 +33,10 @@ Department class
 
 • Character variable
 
-Clinic manager class
+#### Clinic manager class
 
 • Salary
+
 • Clinic variable
 
 • Method to add department
@@ -52,7 +53,7 @@ Clinic manager class
 
 • Method to view doctor referral history
 
-Doctor class
+#### Doctor class
 
 • Doctor type
 
@@ -62,7 +63,7 @@ Doctor class
 
 • Method to show current income limit
 
-My class
+#### Secretary class
 
 • Change section
 
@@ -72,7 +73,7 @@ My class
 
 • Method for selecting a doctor
 
-Patient class
+#### Patient class
 
 • Patient type
 
@@ -80,7 +81,7 @@ Patient class
 
 • Method for paying a fee
 
-User class
+#### User class
 
 • Name
 
@@ -90,7 +91,7 @@ User class
 
 • Method for displaying the user name
 
-Service status
+#### Service status
 
 • Method for finding a doctor
 
