@@ -1,0 +1,6 @@
+public enum Specialty {
+    PSYCHIATRIST,
+    PEDIATRICS,
+    NEUROLOGIST,
+    ANESTHESIOLOGIST
+}
