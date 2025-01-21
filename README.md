@@ -2,6 +2,8 @@
 
 ![Image](https://github.com/user-attachments/assets/fa4d87f1-0d3b-4974-a571-50b134f56ab6)
 
+## ClinicManagement (JAVA)
+
 ## Introduction
 You need to write a comprehensive program for managing a clinic. Each clinic has a manager, a doctor, a nurse, and a patient, each of whom can use the program with their own username and password.
 
