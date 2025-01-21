@@ -21,7 +21,7 @@ When the program starts, the user can enter their username and password to acces
 
 • List of departments
 
-#### Department class
+#### Department class:
 
 • Department name
 
@@ -33,7 +33,7 @@ When the program starts, the user can enter their username and password to acces
 
 • Character variable
 
-#### Clinic manager class
+#### Clinic manager class:
 
 • Salary
 
@@ -53,7 +53,7 @@ When the program starts, the user can enter their username and password to acces
 
 • Method to view doctor referral history
 
-#### Doctor class
+#### Doctor class:
 
 • Doctor type
 
@@ -63,7 +63,7 @@ When the program starts, the user can enter their username and password to acces
 
 • Method to show current income limit
 
-#### Secretary class
+#### Secretary class:
 
 • Change section
 
@@ -73,7 +73,7 @@ When the program starts, the user can enter their username and password to acces
 
 • Method for selecting a doctor
 
-#### Patient class
+#### Patient class:
 
 • Patient type
 
@@ -81,7 +81,7 @@ When the program starts, the user can enter their username and password to acces
 
 • Method for paying a fee
 
-#### User class
+#### User class:
 
 • Name
 
@@ -91,7 +91,7 @@ When the program starts, the user can enter their username and password to acces
 
 • Method for displaying the user name
 
-#### Service status
+#### Service status:
 
 • Method for finding a doctor
 
