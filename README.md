@@ -1,13 +1,15 @@
 # ClinicManagement
 
-### Introduction
+![Image](https://github.com/user-attachments/assets/fa4d87f1-0d3b-4974-a571-50b134f56ab6)
+
+## Introduction
 You need to write a comprehensive program for managing a clinic. Each clinic has a manager, a doctor, a nurse, and a patient, each of whom can use the program with their own username and password.
 
-### Starting the program
+## Starting the program
 
 When the program starts, the user can enter their username and password to access the appropriate menu and use the program's features.
 
-##Main classes of the project
+## Main classes of the project
 
 Clinic class
 
